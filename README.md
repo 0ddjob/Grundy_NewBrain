@@ -8,4 +8,4 @@ Failing .. or succeeding ... that, I'd like to try at a 64KB external SRAM board
 Let's see.<br>
 
 My YouTube video playlist - note, most are my very early videos so probably a bit rough:<br>
-![Grundy NewBrain Playlist](https://www.youtube.com/playlist?list=PL5pwokf56wMKPswNvQZJsGPXETtgRD57M)
+https://www.youtube.com/playlist?list=PL5pwokf56wMKPswNvQZJsGPXETtgRD57M
