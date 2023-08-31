@@ -19,7 +19,7 @@ My idea to replace these DRAM with a single 32KB SRAM is as follows:<br>
 
 Let's see ... (31-Aug-2023)<br>
 
-![SRAM Store Board PCB](SRAM_Store_Board_untested.jpg)
+![SRAM Store Board PCB](SRAM_Store_Board_untested.png)
 
 Thanks to John Bradley for his Kicad schematics:<br>
 https://github.com/flypie/NewBrain<br>
