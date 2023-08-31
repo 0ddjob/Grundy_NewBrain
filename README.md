@@ -1,7 +1,7 @@
 # Grundy_NewBrain
 Hopefully I can contribute something to the community.<br>
 
-![My NewBrain](My_NewBrain.jpeg)
+![My NewBrain](My_NewBrain.jpg)
 
 My current goal is to re-design the "store board" to use a 32KB SRAM instead of the two banks of 16KB DRAM.  I think this is the last remaining fault in my machine.<br>
 
