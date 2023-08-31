@@ -14,3 +14,6 @@ My idea to replace these DRAM with a single 32KB SRAM is as follows:<br>
 - Upper 16KB: latch A0 to A6 plus RAS32, clocking on RAS32<br>
 
 Let's see ... (31-Aug-2023)<br>
+
+Thanks to John Bradley for his Kicad schematics:<br>
+https://github.com/flypie/NewBrain
