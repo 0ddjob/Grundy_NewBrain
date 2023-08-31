@@ -2,6 +2,8 @@
 
 This is the internal RAM board in the NewBrain.<br>
 
+![Original Store Board](DRAM_Store_Board.jpg)
+
 It comprises two banks of 16KB, making 32KB in total.  Each bank has eight MM5290N-2 (16K x 1bit) DRAM chips.<br>
 
 The DRAM is multiplexed using two RAS signals (RAS16 for bank 1 and RAS32 for bank 2) and one CAS signal.<br>
