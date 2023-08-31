@@ -7,7 +7,7 @@ My current goal is to re-design the "store board" to use a 32KB SRAM instead of 
 
 I think this is the last remaining fault in my machine.<br>
 
-Failing .. or succeeding ... that, I'd like to try at a 64KB external SRAM board.<br>
+Failing ... or succeeding ... that, I'd like to try at a 64KB external SRAM board.<br>
 
 Let's see.<br>
 
