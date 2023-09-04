@@ -9,15 +9,13 @@ It comprises two banks of 16KB, making 32KB in total.  Each bank has eight MM529
 The DRAM is multiplexed using two RAS signals (RAS16 for bank 1 and RAS32 for bank 2) and one CAS signal.<br>
 
 My idea to replace these DRAM with a single 32KB SRAM is as follows:<br>
-- There are only six address lines taken across to the store board<br>
+- There are only eight address lines taken across to the store board: A0 to A6 & A14<br>
 - As per other DRAM-to-SRAM designs, latch the RAS signals and apply with CAS<br>
-- To get the A14 address, I thought to also latch the RAS32 signal ... <br>
-- Lower 16KB: latch A0 to A6 clocking on RAS16,<br>
-- Upper 16KB: latch A0 to A6 plus RAS32, clocking on RAS32<br>
+- Simplify the two RAS16 & RAS32 signals to a single RAS signal for clocking the row address latch<br>
 
 ![SRAM Store Board](SRAM_Store_Board_schematic.png)
 
-Let's see ... (31-Aug-2023)<br>
+Let's see ... (4-Sep-2023)<br>
 
 ![SRAM Store Board PCB](SRAM_Store_Board_untested.png)
 
