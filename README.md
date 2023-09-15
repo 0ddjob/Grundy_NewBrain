@@ -9,7 +9,8 @@ I think this is the last remaining fault in my machine.<br>
 
 Failing ... or succeeding ... that, I'd like to try at a 64KB external SRAM board.<br>
 
-Let's see.<br>
+{Fri 15-Sept-2023}<br>
+Sent SRAM Store Board prototype for fabrication<br>
 
 My YouTube video playlist - note, most are my very early videos so probably a bit rough:<br>
 [https://www.youtube.com/playlist?list=PL5pwokf56wMKPswNvQZJsGPXETtgRD57M](https://www.youtube.com/playlist?list=PL5pwokf56wMKPswNvQZJsGPXETtgRD57M)
