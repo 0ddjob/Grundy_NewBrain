@@ -11,6 +11,8 @@ Failing ... or succeeding ... that, I'd like to try at a 64KB external SRAM boar
 
 {Fri 15-Sept-2023}<br>
 Sent SRAM Store Board prototype for fabrication<br>
+{Sat 1-Mar-2025}<br>
+Well, what a disaster that was.  Fixed my (obvious) mistakes and have sent the updated design for fabrication.<br>
 
 My YouTube video playlist - note, most are my very early videos so probably a bit rough:<br>
 [https://www.youtube.com/playlist?list=PL5pwokf56wMKPswNvQZJsGPXETtgRD57M](https://www.youtube.com/playlist?list=PL5pwokf56wMKPswNvQZJsGPXETtgRD57M)
