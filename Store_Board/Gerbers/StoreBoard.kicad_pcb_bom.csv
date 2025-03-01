@@ -1,0 +1,18 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type
+"C11, C14, C17, C2, C20, C23, C55, C58, C59",9,100nF,C_Disc_D3.0mm_W1.6mm_P2.50mm,,,,tht
+C28,1,10µF 35v,CP_Radial_D5.0mm_P2.00mm,,,,tht
+"C49, C57",2,220pF,C_Disc_D3.0mm_W1.6mm_P2.50mm,,,,tht
+"HOLE1, HOLE2",2,HOLE,MountingHole_3.2mm_M3_Pad,,,,tht
+"J1, J2, J3, J4",4,Conn_01x10,PinHeader_1x10_P2.54mm_Vertical,,,,tht
+"R46, R56",2,150Ω,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,,,,tht
+RN54,1,4.7KΩ,R_Array_SIP9,,,,tht
+TP1,1,Conn_02x05_Odd_Even,PinHeader_2x05_P2.54mm_Vertical,,,,tht
+U1,1,HM62256BLP,DIP-28_W15.24mm,,,,tht
+U2,1,74LS574,DIP-20_W7.62mm,,,,tht
+U418,1,74LS00,DIP-14_W7.62mm,,,,tht
+U419,1,74LS08,DIP-14_W7.62mm,,,,tht
+U420,1,74LS04,DIP-14_W7.62mm,,,,tht
+U421,1,74LS112,DIP-16_W7.62mm,,,,tht
+U422,1,SN74LS74,DIP-14_W7.62mm,,,,tht
+U423,1,74LS10,DIP-14_W7.62mm,,,,tht
+U424,1,74LS32,DIP-14_W7.62mm,,,,tht
